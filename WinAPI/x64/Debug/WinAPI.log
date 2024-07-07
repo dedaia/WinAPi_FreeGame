@@ -1,0 +1,412 @@
+﻿  Framework.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Framework\Math\Vector2.h(10,29): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Framework.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Framework\Math\Vector2.h(10,41): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Framework.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\Slash_hit.h(30,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 'Framework.cpp'을(를) 컴파일하는 중)
+  
+  GameMath.cpp
+  Animation.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Framework\Render\Animation.cpp(62,28): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/Framework/Render/Animation.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Framework\Render\Animation.cpp(71,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Framework/Render/Animation.cpp'을(를) 컴파일하는 중)
+  
+  PlayerChar.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(6,25): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(68,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(71,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(74,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(83,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(83,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(83,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(83,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(94,95): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(94,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(94,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(94,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(106,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(106,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(106,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(106,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(116,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(116,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(116,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(116,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayerChar.cpp(438,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayerChar.cpp'을(를) 컴파일하는 중)
+  
+  Plant_monster.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(257,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(259,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(259,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(259,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(259,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(269,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(269,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(269,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(269,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(292,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(294,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(294,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(294,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(294,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(304,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(304,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(304,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(304,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(327,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(329,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(329,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(329,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(329,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(339,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(339,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(339,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(339,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(362,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(364,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(364,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(364,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(364,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(374,85): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(374,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(374,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(374,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(397,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(399,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(399,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(399,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(399,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(409,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(409,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(409,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(409,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(432,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(434,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(434,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(434,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(434,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(444,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(444,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(444,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(444,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(467,30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(469,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(469,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(469,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(469,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(479,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(479,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(479,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.cpp(479,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_Monster/Plant_monster.cpp'을(를) 컴파일하는 중)
+  
+  Physics.cpp
+  PlayUI.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayUI.cpp(42,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayUI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayUI.cpp(52,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayUI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\PlayUI.cpp(62,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/PlayUI.cpp'을(를) 컴파일하는 중)
+  
+  Landscape.cpp
+  Texture.cpp
+  Keyboard.cpp
+  Timer.cpp
+  Utility.cpp
+  GameManager.cpp
+  Cannon.cpp
+  Circle.cpp
+  GameObject.cpp
+  ImageRect.cpp
+  Line.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Basic\Line.cpp(10,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Basic/Line.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Basic\Line.cpp(10,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Basic/Line.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Basic\Line.cpp(11,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Basic/Line.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Basic\Line.cpp(11,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Basic/Line.cpp'을(를) 컴파일하는 중)
+  
+  Rect.cpp
+  StageManager.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\StageManager.cpp(168,27): warning C4267: '=': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/StageManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\StageManager.cpp(216,67): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/StageManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\StageManager.cpp(216,64): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/StageManager.cpp'을(를) 컴파일하는 중)
+  
+  PoolingManager.cpp
+  코드를 생성하고 있습니다...
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_Monster\Plant_monster.h(211,1): warning C4715: 'Plant_monster::GetCollisionDirection': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Bullet.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Bullet.cpp(40,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Bullet.cpp(40,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Bullet.cpp(41,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Bullet.cpp(41,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Bullet.cpp(43,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Bullet.cpp(43,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Bullet.cpp(44,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Bullet.cpp(44,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Bullet.cpp'을(를) 컴파일하는 중)
+  
+  BulletManager.cpp
+  Enemy.cpp
+  EnemyManager.cpp
+  Plane.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Plane.cpp(36,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Plane.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Plane.cpp(36,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Plane.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Plane.cpp(35,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Plane.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Plane.cpp(35,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Plane.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Plane.cpp(39,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Plane.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Plane.cpp(39,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Plane.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Plane.cpp(38,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Plane.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\Shooting\Plane.cpp(38,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/Shooting/Plane.cpp'을(를) 컴파일하는 중)
+  
+  SampleCharacter.cpp
+  SampleScene.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\SampleScene.cpp(6,25): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/SampleScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\SampleScene.cpp(299,20): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/SampleScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\SampleScene.cpp(483,19): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/SampleScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\SampleScene.cpp(663,38): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/SampleScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\SampleScene.cpp(676,38): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/SampleScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\SampleScene.cpp(689,38): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/SampleScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\SampleScene.cpp(702,38): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/SampleScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Scenes\_SampleScene\SampleScene.cpp(715,38): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scenes/_SampleScene/SampleScene.cpp'을(를) 컴파일하는 중)
+  
+  Slash_hit.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\Slash_hit.h(30,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/Objects/_PlayerC/Slash_hit.cpp'을(를) 컴파일하는 중)
+  
+  Shield.cpp
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\Shield.cpp(6,25): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Objects/_PlayerC/Shield.cpp'을(를) 컴파일하는 중)
+  
+  WinAPI.cpp
+  코드를 생성하고 있습니다...
+C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\WinAPI\Objects\_PlayerC\Slash_hit.cpp(167,1): warning C4715: 'Slash_hit::slah_LEVEL': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  WinAPI.vcxproj -> C:\Users\zzzzx\Desktop\포트폴리오\WinAPI (kim_FreeGame) (최종본)\x64\Debug\WinAPI.exe
